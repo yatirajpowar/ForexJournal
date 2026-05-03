@@ -18,7 +18,8 @@ A high-performance, cross-platform mobile application built with React Native, s
 
 
 📸 Screenshots:
-1]Add Trade : <img width="712" height="1280" alt="Comprehensive_trade_entry" src="https://github.com/user-attachments/assets/d30379c2-03e4-4891-8777-cc228bfc1b6d" />
+1]Add Trade : <img width="712" height="1280" alt="Comprehensive_trade_homeentry" src="https://github.com/user-attachments/assets/2593ed5d-b398-4a57-871d-dbf8fee8b1d3" />
+
 
 <img width="712" height="1280" alt="Comprehensive_trade_entry" src="https://github.com/user-attachments/assets/de8bdb51-69d6-46bb-9c54-b28215298990" />
 
